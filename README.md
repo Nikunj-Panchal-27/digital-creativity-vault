@@ -131,7 +131,28 @@ A modern **Canva-inspired** design platform built with **Next.js**, **Fabric.js*
 
 ---
 
+# 🎥 Demo
+
+> Add your demo video here after uploading.
+
+https://github.com/user-attachments/assets/8bc33815-dff4-4ce5-80b1-f9af2747e744
+
+---
+
+
 # 📸 Screenshots
+
+## Login
+
+![Login](docs/login.png)
+
+---
+
+## Sign Up
+
+![Signup](docs/signup.png)
+
+---
 
 ## Dashboard
 
@@ -175,25 +196,6 @@ A modern **Canva-inspired** design platform built with **Next.js**, **Fabric.js*
 
 ---
 
-## Login
-
-![Login](docs/login.png)
-
----
-
-## Sign Up
-
-![Signup](docs/signup.png)
-
----
-
-# 🎥 Demo
-
-> Add your demo video here after uploading.
-
-https://github.com/user-attachments/assets/8bc33815-dff4-4ce5-80b1-f9af2747e744
-
----
 
 # 🛠 Tech Stack
 
